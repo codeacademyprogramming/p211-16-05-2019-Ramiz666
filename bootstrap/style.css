@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+a:hover {
+    text-decoration: none;
+}
+#welcome {
+    background:linear-gradient(
+to bottom, rgba(22, 22, 0, 0.349) 0,
+rgba(22, 22, 0, 0.397) 75%,
+#16161667 100%
+
+
+    ),
+     url(https://simpleqode.bitbucket.io/incline/assets/img/54.jpg);
+    background-size: auto;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    
+}
+
+.incline  a{
+    
+    font-size: 25px;
+    color: white ;
+    font-weight: bold;
+}
+.incline  a:hover{
+    text-decoration: none;
+}
+.icon i {
+    
+max-width: 100%;
+    margin: 14px 25px;
+}
+.incline span {
+    
+}
+.icon  i:hover {
+    color: #f5ba4b;
+}
+.icon  i {
+    color: white;
+}
+.head .bye  {
+    display: none;
+}
+.head .ok:hover li  {
+    display: block;
+    background-color: white;
+    width: 130px;
+    height: 50px;
+}
+.ram {
+    width: 35px;
+    
+}
+.head .ok li  a{
+    color: black;
+    
+    
+} 
+.head li  a{
+    color: white;
+    font-weight: bold;
+}
+.ok i {
+    margin: 0px 5px;
+    color: white;
+}
+.ok {
+    position: relative;
+    margin-top: 10px;
+}
+.head .bye  {
+    
+    max-width: 100%;
+    ;
+}
+
+nav {
+    padding: 35px 70px;
+}
+.head {
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.ok a:hover {
+    color:#f5ba4b;
+    transition: all 0.2s ease-in-out;
+
+}
+.car li a {
+    display: block;
+}
+.car{
+    position: absolute;
+}
+.brand {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 170px 0;
+    colu
+}
+.brand span {
+   color:  hsla(0,0%,100%,.65);
+   text-transform: uppercase;
+}
+.brand  h1{
+    color: white;
+    font-weight: bold;
+}
+.brand p {
+    color: hsla(0,0%,100%,.65);
+}
+.brand a {
+    color: white;
+    border: 1px solid;
+    padding: 10px 20px;
+}
